@@ -19,7 +19,7 @@ namespace set
         SqlCommand cmd;
         SqlDataReader reader;
         System.Security.Cryptography.SHA256 HASH = SHA256.Create();
-        private const string FixedSalt = "private const string FixedSalt = \"MySuperSecretSaltValue123!\";\r\n"; // 定義固定的 Salt 值
+        private const string FixedSalt = "s8Yv9pqRvqflfXp2Ztjx1w=="; // 定義固定的 Salt 值
 
         public Form1()
         {
