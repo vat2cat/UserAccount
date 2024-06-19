@@ -55,7 +55,7 @@ namespace set
                                 string hashedPassword = Convert.ToBase64String(crypto);
 
                                 // 調試訊息，檢查 hash 過程
-                                MessageBox.Show($"storedHashedPassword: {storedHashedPassword}\nhashedPassword: {hashedPassword}");
+                               // MessageBox.Show($"storedHashedPassword: {storedHashedPassword}\nhashedPassword: {hashedPassword}");
 
                                 if (hashedPassword == storedHashedPassword)
                                 {
