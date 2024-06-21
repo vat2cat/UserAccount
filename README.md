@@ -1,7 +1,8 @@
 # 介紹
 帳號的登入、註冊頁面，透過C# 來實現一個登入、註冊的 Windows Forms 應用程式，使用 SHA256 進行密碼HASH以及固定的 Salt 值來增強安全性。
 # Demo
-註冊成功：
+註冊成功：![螢幕擷取畫面 2024-06-21 231446](https://github.com/vat2cat/UserAccount/assets/160461838/30942c5b-5aed-4b37-b0c9-5157785c5a58)
+
 (https://github.com/vat2cat/UserAccount/assets/160461838/dda155a6-579d-41fd-ae18-4135274a39e8)
 重複註冊：
 (https://github.com/vat2cat/UserAccount/assets/160461838/47a19141-ae85-440c-9307-a2cebfee67cf)
